@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfak-rahad&label=Profile%20views&color=0e75b6&style=flat" alt="ashfak-rahad" /> </p>
 
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Mern stack**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **ahsfakur@gmail.com**
 
